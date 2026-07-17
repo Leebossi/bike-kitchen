@@ -135,3 +135,103 @@ Pyöräpaja toimii lahjoitus- ja vapaaehtoistoimin. Näin voit tukea:
 
 Liity Turun Pyöräpajan Vapaa Ratas Ry jäseneksi! Jäsenmaksu on 1-30€ vuodessa,. Tukijäsenyys on 50€ vuodessa. Liittymällä jäseneksi autat meitä kattamaan pyöräpajan vuokrakuluja.
 [Linkki jäsenhakemukseen](https://docs.google.com/forms/d/e/1FAIpQLSfg6IdpMdDR_l4FjxCrsIzlXiaz4wbHpCbmNcGLcVOQNLjwfg/viewform?usp=header)
+
+## Contents in english
+
+### 1. Front Page
+
+**Location**
+Akselintie 14
+20220 Turku
+
+**Opening hours**
+Temporarily Closed! We will open in August 2026.
+
+**What is Turku Bike Kitchen?**
+
+Turku bike kitchen is a non-commercial space, where you can come and repair or build your own bicycle. Volunteers will instruct you in maintenance and repair tasks, but will not fix bikes for you. We do not sell bike repair services.
+
+The bike kitchen provides basic tools, used spare parts, and some bike-specific tools.
+
+We also arrange other events, such as monthly social rides with the name Night Ride, and pop-up DIY bike repair spots with our partners.
+
+We strive to be a safer space.
+
+Do you want to join the group of bike kitchen actives? We hold a bike kitchen meeting on the first Thursday of every month, where we plan the activities of the bike kitchen.
+
+The association behind Turku Bike Kitchen is Vapaa Ratas ry.
+By joining as a member of Vapaa Ratas ry, you can support the bike kitchen! (LINK to membership application)
+
+Please note that everyone is welcome at the bike kitchen, and participating in the bike kitchen activities does not require you to be a member of the association. You can stay up to date on bike kitchen activities, events and courses by signing up on our email list or by joining the bike kitchen meetings.
+
+**Contact Information**
+Email:  pyorapaja.vapaaratas@gmail.com 
+Instagram: @turunpyorapaja
+Telegram:https://t.me/+2SWG8FDxXl85OTVk 
+
+Do you want to arrange an event at the bike kitchen? Contact us via email, or come to the bike kitchen meeting on the first thursday of the month at 19.00.
+
+### 2. Our Principals and rules
+
+Bike kitchen is a community based on volunteer work and cooperation. Bike kitchen was born to fill a need for a space where you can fix bikes, meet people, and share skills and knowledge. Our activities are free and open for everyone.
+1. Asking questions will help you figure things out.
+2. Clean up after yourself. Volunteers are here to help, not clean up.
+3. Put your tools back where they belong so others can find them.
+4. Use tools properly and thoughtfully. If you don't know how to use them, ask for advice. Use tools only when you are capable of using them safely & responsibly.
+5. Don't leave your project lying around. The space is intended for a bike workshop, not a warehouse. Unfinished projects can be stored for two weeks. Mark your project with a note with your name, phone number, and date. The bike workshop is not responsible for lost property.
+6. Each workshop visitor can have one project bike, which can be in the workshop for the duration of the building. There is limited space to store project bikes.
+7. All spare parts are intended for use in the workshop, so screw the spare parts you take in at the workshop. Don't hoard parts. There are limited spare parts for common use.
+8. If you find components that are clearly broken, remove useful parts ouf of them and dispose parts that are beyond repair.
+9. If you have an idea for an activity, etc., you can share it with others at the workshop meeting on the first Thursday of every month at 7:00 PM.
+10. You can make coffee and tea freely. You can also use the refrigerator and microwave. If you leave food in the refrigerator, mark when it was opened or brought in. Food in the fridge is for everyone, unless it is clearly marked with a name.
+11. Can't think of anything to do, but still want to hang out at the workshop? Easy chores: help others, clean, organize parts, take out the trash, repair bikes for the workshop to sell, etc.
+12. The bike workshop works on donations. Don't hesitate to donate tools, spare parts, lubricants, food, coffee, toilet paper, etc. etc. You can find a more detailed list of needs [here](https://docs.google.com/document/d/1dbl9vijzUfbWqq5HUz82BjK2hrZLy4qMeUCoam4jCwA/edit?usp=sharing).
+13. Helping and learning are central to the bike workshop's operations. Give others the space to learn!
+14. The bike workshop follows the principles of a safer space. Don't discriminate against anyone (except Nazis).
+
+**Safer space principals**
+
+Turku Bike Kitchen follows safer space principals. We do not tolerate racism, sexism, homophobia, transphobia, ableism, or other forms of discrimination.
+
+- Respect everyone's self-identification
+- Don't touch, stare, photograph, or ask personal questions without the consent of the other person.
+- Don't comment on other peoples bodies or their ways to be.
+- Respect the name and pronouns of everyone. Avoid using gendered language, unless you know how the person defines themselves.
+- Don't make assumptions on other people's background (sexuality, wealth, nationality, abilities, etc.)
+- Give space to minorities.
+- Take care of yourself and people around you.
+
+If something or someone bothers you or you notice discrimination, contact the bike kitchen volunteers. If your own behavior is being criticized, receive the critique and fix your behavior. If the aggressor refuses to change their behavior, they are no longer welcome to paja.
+
+### 3. Event Calendar
+
+you can also add the calendar to your device from [here](https://calendar.google.com/calendar/embed?src=pyorapaja.vapaaratas%40gmail.com&ctz=Europe%2FHelsinki).
+
+### 4. Accessibility (WIP)
+
+
+Entrance to Turku Bike Kitchen is via Akselintie. Akselintie has an elevated sidewalk. Bike Kitchen yard is reachable by a car, but we have no parking space in use. Cars should be left to Akselintie.
+
+Accessibility at Turku Bike Kitchen is limited. There is a 80cm wide door to the space, but also a industrial door is openable if needed. Both doors have a doorsill. The space is an old car repair garage, and thus it has an oil well. The oil well is covered with a plywood case. Because of these things, the floor of the bike kitchen is not level and has many steps of varying height. Edges of the steps have been marked with colourful tape.
+
+Toilet is found at the back of the office room, to which accessibility is also limited. There are level differences in the floor, and the toilet is not accessible with a wheelchair.
+
+Guide dogs and pets are welcome to the bike kitchen, but we recommend they stay around the yard or the couch area. Please take note, that bike repair sometimes produces loud noises that can cause stress to your pet, and that there might be metal trash on the floor that can be dangerous for paws. Please do not bring animals to our music events, where the noise levels can be even higher.
+
+### 5. Hopw to support
+
+
+The bike shop operates through donations and volunteer work. Here's how you can support:
+
+- Join as a volunteer! Let the bike kitchen's volunteers know that you are interested in helping run the workshop. We do not expect new volunteers to have bike repair skills.
+- Become a member of our supporting association, Vapaa Ratas Ry. Vapaa Ratas Ry runs the bike shop's finances. Membership fees are 1-30€ per year, or 50€ for a support membership.
+- We have support products, including stickers, fabric badges, etc.! We also make t-shirts from time to time.
+- Donate tools or supplies needed for the bike kitchen. We keep a list of needed supplies here: https://docs.google.com/document/d/1dbl9vijzUfbWqq5HUz82BjK2hrZLy4qMeUCoam4jCwA/edit?usp=sharing 
+- Donate bike parts or bikes to the bike kitchen. Note! Parts must be in usable condition or repairable. We do not accept scrap and reserve the right to refuse donations.
+- You can donate money to the bike kitchen. You can donate to us with Mobilepay, and there is a donation box at the workshop.
+
+### 6. Join the association
+
+Become a member of the Turku Pyöräpajan Vapaa Ratas Ry! Membership fee is 1-30€ per year, or support membership is 50€ per year. By becoming a member, you help us cover the rental costs of the bike kitchen.
+
+[Link to the membership application form](https://docs.google.com/forms/d/e/1FAIpQLSfg6IdpMdDR_l4FjxCrsIzlXiaz4wbHpCbmNcGLcVOQNLjwfg/viewform?usp=header)
