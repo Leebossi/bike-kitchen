@@ -25,7 +25,8 @@
 **Sijainti**
 Akselintie 14
 20200 Turku
-Aukioloajat:
+
+**Aukioloajat**
 Toistaiseksi suljettu! Avaamme Elokuussa 2026.
 
 **Mikä on Turun pyöräpaja?**
@@ -75,10 +76,9 @@ Pyöräpaja syntyi tarpeesta avoimelle tilalle, jossa voi korjata pyöriä, tava
 10.  Kahvia ja teetä voi vapaasti keittää. Myös jääkaappia ja mikroa saa käyttää. Jos jätät jääkaappiin ruokaa, merkitse koska se on avattu tai tuotu. Jääkaappiin jätetty ruoka on vapaasti kaikkien syötävänä ellei ruokaa ole selvästi merkitty omalla nimellä.
 11.  Pajan virallisina aukioloaikoina pyöräpaja on päihteetön.
 12.  Etkö keksi tekemistä, mutta haluat silti hengata pajalla? Helppoja askareita: auta muita, siivoa, järjestä osia, vie roskat, korjaa pajalle pyöriä myyntiin jne.
-13.  Pyöräpaja toimii lahjoituksilla. Älä epäröi lahjoittaa työkaluja, varaosia, voiteluaineita, ruokaa, kahvia, vessapaperia, yms yms. Tarkemman tarvelistan löydät täältä:
-[tarvelista](https://docs.google.com/document/d/1dbl9vijzUfbWqq5HUz82BjK2hrZLy4qMeUCoam4jCwA/edit?usp=sharing)
-1.   Auttaminen ja oppiminen on keskeistä pyöräpajan toiminnassa. Annahan muille tilaa oppia!
-2.   Pyöräpajalla noudatetaan turvallisemman tilan periaatteita. Älä syrji ketään (paitsi natseja).
+13.  Pyöräpaja toimii lahjoituksilla. Älä epäröi lahjoittaa työkaluja, varaosia, voiteluaineita, ruokaa, kahvia, vessapaperia, yms yms. Tarkemman tarvelistan löydät [täältä](https://docs.google.com/document/d/1dbl9vijzUfbWqq5HUz82BjK2hrZLy4qMeUCoam4jCwA/edit?usp=sharing).
+14.   Auttaminen ja oppiminen on keskeistä pyöräpajan toiminnassa. Annahan muille tilaa oppia!
+15.   Pyöräpajalla noudatetaan turvallisemman tilan periaatteita. Älä syrji ketään (paitsi natseja).
     
 **Turvallisempi tila**
 
@@ -184,10 +184,11 @@ Bike kitchen is a community based on volunteer work and cooperation. Bike kitche
 8. If you find components that are clearly broken, remove useful parts ouf of them and dispose parts that are beyond repair.
 9. If you have an idea for an activity, etc., you can share it with others at the workshop meeting on the first Thursday of every month at 7:00 PM.
 10. You can make coffee and tea freely. You can also use the refrigerator and microwave. If you leave food in the refrigerator, mark when it was opened or brought in. Food in the fridge is for everyone, unless it is clearly marked with a name.
-11. Can't think of anything to do, but still want to hang out at the workshop? Easy chores: help others, clean, organize parts, take out the trash, repair bikes for the workshop to sell, etc.
-12. The bike workshop works on donations. Don't hesitate to donate tools, spare parts, lubricants, food, coffee, toilet paper, etc. etc. You can find a more detailed list of needs [here](https://docs.google.com/document/d/1dbl9vijzUfbWqq5HUz82BjK2hrZLy4qMeUCoam4jCwA/edit?usp=sharing).
-13. Helping and learning are central to the bike workshop's operations. Give others the space to learn!
-14. The bike workshop follows the principles of a safer space. Don't discriminate against anyone (except Nazis).
+11. The bike kitchen is a substance-free zone during official opening hours.
+12. Can't think of anything to do, but still want to hang out at the workshop? Easy chores: help others, clean, organize parts, take out the trash, repair bikes for the workshop to sell, etc.
+13. The bike workshop works on donations. Don't hesitate to donate tools, spare parts, lubricants, food, coffee, toilet paper, etc. etc. You can find a more detailed list of needs [here](https://docs.google.com/document/d/1dbl9vijzUfbWqq5HUz82BjK2hrZLy4qMeUCoam4jCwA/edit?usp=sharing).
+14. Helping and learning are central to the bike workshop's operations. Give others the space to learn!
+15. The bike workshop follows the principles of a safer space. Don't discriminate against anyone (except Nazis).
 
 **Safer space principals**
 
@@ -226,7 +227,7 @@ The bike shop operates through donations and volunteer work. Here's how you can 
 - Join as a volunteer! Let the bike kitchen's volunteers know that you are interested in helping run the workshop. We do not expect new volunteers to have bike repair skills.
 - Become a member of our supporting association, Vapaa Ratas Ry. Vapaa Ratas Ry runs the bike shop's finances. Membership fees are 1-30€ per year, or 50€ for a support membership.
 - We have support products, including stickers, fabric badges, etc.! We also make t-shirts from time to time.
-- Donate tools or supplies needed for the bike kitchen. We keep a list of needed supplies here: https://docs.google.com/document/d/1dbl9vijzUfbWqq5HUz82BjK2hrZLy4qMeUCoam4jCwA/edit?usp=sharing 
+- Donate tools or supplies needed for the bike kitchen. We keep a list of needed supplies [here](https://docs.google.com/document/d/1dbl9vijzUfbWqq5HUz82BjK2hrZLy4qMeUCoam4jCwA/edit?usp=sharing).
 - Donate bike parts or bikes to the bike kitchen. Note! Parts must be in usable condition or repairable. We do not accept scrap and reserve the right to refuse donations.
 - You can donate money to the bike kitchen. You can donate to us with Mobilepay, and there is a donation box at the workshop.
 
