@@ -9,7 +9,7 @@
     "landing.description": "Turku bike kitchen is a non-commercial space, where you can come and repair or build your own bicycle. Volunteers will instruct you in maintenance and repair tasks, but will not fix bikes for you. We do not sell bike repair services. The bike kitchen provides basic tools, used spare parts, and some bike-specific tools. We also arrange other events, such as monthly social rides with the name Night Ride, and pop-up DIY bike repair spots with our partners. We strive to be a safer space.",
     "landing.join_us": "Want to join the activities of Turku Bike Kitchen?",
     "landing.join_us_link": "Sign up form",
-    "landing.meeting_info": "We hold a bike kitchen meeting on the first Thursday of every month, where we plan the activities of the bike kitchen.",
+    "landing.meeting_info": "We hold a bike kitchen meeting on the first Thursday of every month at 19:00, where we plan the activities of the bike kitchen.",
     "landing.background_info": "The association behind Turku Bike Kitchen is Vapaa Ratas ry. By joining as a member of Vapaa Ratas ry, you can support the bike kitchen!",
     "landing.participation_info": "Please note that everyone is welcome at the bike kitchen, and participating in the bike kitchen activities does not require you to be a member of the association.",
     "landing.telegram_info": "You can stay up to date on bike kitchen activities, events and courses by signing up on our email list or by joining the bike kitchen meetings.",
@@ -19,7 +19,7 @@
 
     "rules.title": "Our principles and rules",
     "rules.description": "Bike kitchen is a community based on volunteer work and cooperation. Bike kitchen was born to fill a need for a space where you can fix bikes, meet people, and share skills and knowledge. Our activities are free and open for everyone.",
-    "rules.rules": "Workshop rules",
+    "rules.rules": "Bike kitchen rules",
     "rules.rules_list": [
       "**1.** Asking questions will help you figure things out.",
       "**2.** Clean up after yourself. Volunteers are here to help, not clean up.",
@@ -88,7 +88,7 @@
     "landing.participation_info": "Pajan toimintaan osallistuminen ei edellytä yhdistyksen jäsenyyttä, vaan kaikki ovat tervetulleita mukaan.",
     "landing.telegram_info": "Pajan Telegram-kanavalle liittymällä ja pajakokouksiin osallistumalla pysyt kärryillä pajan toiminnasta, tapahtumista ja kursseista.",
     "landing.contact_info": "Yhteystiedot",
-    "landing.contact_info.details": "Sähköposti: pyorapaja.vapaaratas@gmail.com\nInstagram: @turunpyorapaja\nTelegram: https://t.me/+2SWG8FDxXl85OTVk",
+    "landing.contact_info.details": "Email: pyorapaja.vapaaratas@gmail.com\nInstagram: @turunpyorapaja\nTelegram: https://t.me/+2SWG8FDxXl85OTVk",
     "landing.event_info": "Haluatko järjestää tapahtuman pajalla?\nOle yhteydessä sähköpostitse, tai tule pajakokoukseen kuukauden ensimmäinen torstai kello 19.",
 
     "rules.title": "Toimintaperiaatteet ja säännöt",
