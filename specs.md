@@ -142,7 +142,7 @@ Liity Turun Pyöräpajan Vapaa Ratas Ry jäseneksi! Jäsenmaksu on 1-30€ vuode
 
 **Location**
 Akselintie 14
-20220 Turku
+20200 Turku
 
 **Opening hours**
 Temporarily Closed! We will open in August 2026.
