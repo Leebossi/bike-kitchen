@@ -1,17 +1,268 @@
 <!doctype html>
-<html lang="en">
+<html lang="fi">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="apple-touch-icon" sizes="180x180" href="src/static/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="src/static/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="src/static/favicon-16x16.png" />
-    <link rel="manifest" href="src/static/site.webmanifest" />
-    <link rel="stylesheet" href="src/styles/index.css" />
-    <title>Turun Pyöräpaja</title>
+    <meta name="description" content="Turun Pyöräpaja - Turku Bike Kitchen" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="static/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="static/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="static/favicon-16x16.png"
+    />
+    <link rel="manifest" href="static/site.webmanifest" />
+    <link rel="stylesheet" href="styles/index.css" />
+    <script src="js/i18n.js" defer></script>
+    <title data-i18n="landing.title">Turun Pyöräpaja</title>
   </head>
   <body>
-    <script src="src/js/index.js"></script>
-    <img id="logo" src="src/static/img/logo.png" alt="Turun Pyöräpaja Logo" />
+    <header class="site-header">
+      <div
+        class="lang-switch"
+        id="lang-switch"
+        role="group"
+        aria-label="Language"
+      >
+        <button type="button" id="langToggleFi" data-lang="fi">FI</button>
+        <button type="button" id="langToggleEn" data-lang="en">EN</button>
+      </div>
+    </header>
+    <main id="app">
+      <section id="landing" class="section">
+        <img
+          id="logo"
+          src="static/img/logo.png"
+          alt="Turun Pyöräpaja"
+        />
+        <h1 class="section-title" data-i18n="landing.title">Turun Pyöräpaja</h1>
+        <div class="grid-2">
+          <div class="brutal-card">
+            <h3 data-i18n="landing.location">Sijainti</h3>
+            <div data-i18n-html="landing.address">
+              <p>Akselintie 14<br />20200 Turku</p>
+            </div>
+          </div>
+          <div class="brutal-card accent-card">
+            <h3 data-i18n="landing.opening_hours">Aukioloajat</h3>
+            <p data-i18n="landing.opening_hours_details">
+              Toistaiseksi suljettu! Avaamme Elokuussa 2026.
+            </p>
+          </div>
+        </div>
+        <div class="brutal-card">
+          <h3 data-i18n="landing.what_is">Mikä on Turun pyöräpaja?</h3>
+          <p data-i18n="landing.description">
+            Turun Pyöräpaja on vuonna 2018 perustettu ei-kaupallinen tila, jonne
+            voi tulla itse korjaamaan tai rakentamaan polkupyörää. Vapaaehtoiset
+            neuvovat ja auttavat huolloissa ja korjauksissa, mutta eivät tee
+            huoltoa puolestasi. Emme myy pyörien korjauspalveluita. Käytössä on
+            perustyökaluja, käytettyjä varaosia sekä joitakin erikoistyökaluja.
+            Järjestämme myös muita tapahtumia, kuten kuukausittaisia yhteysajoja
+            nimellä Night Ride, ja pop-up-pajoja yhteistyökumppaniemme kanssa.
+            Noudatamme pyöräpajalla turvallisemman tilan periaatteita.
+          </p>
+        </div>
+        <div class="brutal-card">
+          <h3 data-i18n="landing.join_us">
+            Haluatko tulla mukaan Turun pyöräpajan toimintaan?
+          </h3>
+          <p data-i18n="landing.meeting_info">
+            Joka kuun ensimmäisenä torstaina pidetään pajakokous kello 19.00,
+            jossa suunnitellaan pajan toimintaa.
+          </p>
+          <p data-i18n="landing.background_info">
+            Turun pyöräpajan taustaorganisaatio on Vapaa ratas ry. Liittymällä
+            jäseneksi voit tukea pajaa!
+          </p>
+          <p data-i18n="landing.participation_info">
+            Pajan toimintaan osallistuminen ei edellytä yhdistyksen jäsenyyttä,
+            vaan kaikki ovat tervetulleita mukaan.
+          </p>
+          <p data-i18n="landing.telegram_info">
+            Pajan Telegram-kanavalle liittymällä ja pajakokouksiin
+            osallistumalla pysyt kärryillä pajan toiminnasta, tapahtumista ja
+            kursseista.
+          </p>
+          <a
+            class="brutal-btn"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfg6IdpMdDR_l4FjxCrsIzlXiaz4wbHpCbmNcGLcVOQNLjwfg/viewform?usp=header"
+            target="_blank"
+            rel="noopener noreferrer"
+            data-i18n="landing.join_us_link"
+            >Liittymislomake</a
+          >
+        </div>
+        <div class="grid-2">
+          <div class="brutal-card">
+            <h3 data-i18n="landing.contact_info">Yhteystiedot</h3>
+            <p>
+              Sähköposti: pyorapaja.vapaaratas@gmail.com<br />
+              Instagram: @turunpyorapaja<br />
+              Telegram:
+              <a
+                href="https://t.me/+2SWG8FDxXl85OTVk"
+                target="_blank"
+                rel="noopener noreferrer"
+                >https://t.me/+2SWG8FDxXl85OTVk</a
+              >
+            </p>
+          </div>
+          <div class="brutal-card" data-i18n-html="landing.event_info">
+            <p>
+              <strong>Haluatko järjestää tapahtuman pajalla?</strong><br />
+              Ole yhteydessä sähköpostitse, tai tule pajakokoukseen kuukauden
+              ensimmäinen torstai kello 19.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="rules" class="section">
+        <h2 class="section-title" data-i18n="rules.title">
+          Toimintaperiaatteet ja säännöt
+        </h2>
+        <div class="brutal-card" data-i18n-html="rules.description">
+          <p>Lukemalla seuraavat ohjeet selviät pajaelämästä iisimmin.</p>
+          <p>
+            Pyöräpaja on yhteisö, jonka toiminta perustuu vapaaehtoisuudelle ja
+            yhteistoiminnalle.<br />
+            Pyöräpaja syntyi tarpeesta avoimelle tilalle, jossa voi korjata
+            pyöriä, tavata ihmisiä ja jakaa tietojaan ja taitojaan. Toiminta on
+            maksutonta ja kaikille avointa.
+          </p>
+        </div>
+        <div class="brutal-card">
+          <h3 data-i18n="rules.rules">Pajasäännöt</h3>
+          <ul class="brutal-list" data-i18n-list="rules.rules_list">
+            <li>1. Kysymällä asiat selviävät.</li>
+          </ul>
+        </div>
+        <div class="brutal-card accent-card">
+          <h3 data-i18n="rules.safer_space">Turvallisempi tila</h3>
+          <p data-i18n="rules.safer_space_description">
+            Noudatamme pyöräpajalla turvallisemman tilan periaatteita. Jokaisen
+            on kyettävä kokemaan olonsa mukavaksi pajalla emmekä hyväksy
+            vihamielistä tai häiritsevää käytöstä.
+          </p>
+          <ul class="brutal-list" data-i18n-list="rules.safer_space_rules">
+            <li>Kunnioita jokaisen itsemäärittelyä.</li>
+          </ul>
+          <p data-i18n="rules.safer_space_additional_info">
+            Jos huomaat jonkun käyttäytyvän rasistisesti, seksistisesti,
+            homofobisesti tai muuten syrjivän tai kohtelevan ihmisiä huonosti,
+            puutu tilanteeseen tai ilmoita vapaaehtoisille. Jos häiritsevä
+            käytös jatkuu, käsittelemme tapauksen yhdessä. Jos häiriön
+            aiheuttaja ei ole valmis muuttamaan toimintaansa, hän ei ole
+            tervetullut pajalle.
+          </p>
+        </div>
+      </section>
+
+      <section id="calendar" class="section">
+        <h2 class="section-title" data-i18n="calendar.title">
+          Tapahtumakalenteri
+        </h2>
+        <div class="brutal-card">
+          <iframe
+            class="calendar-embed"
+            src="https://calendar.google.com/calendar/embed?src=pyorapaja.vapaaratas%40gmail.com&ctz=Europe%2FHelsinki"
+            frameborder="0"
+            scrolling="no"
+            loading="lazy"
+            title="Tapahtumakalenteri"
+          ></iframe>
+          <p>
+            <a
+              class="brutal-btn"
+              href="https://calendar.google.com/calendar/u/0/r?cid=pyorapaja.vapaaratas@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-i18n="calendar.cta"
+              >Voit myös lisätä kalenterin itsellesi tästä.</a
+            >
+          </p>
+        </div>
+      </section>
+
+      <section id="accessibility" class="section">
+        <h2 class="section-title" data-i18n="accessibility.title">
+          Saavutettavuus ja esteettömyys
+        </h2>
+        <div class="brutal-card" data-i18n-html="accessibility.description">
+          <p>
+            Kulku Turun Pyöräpajalle tapahtuu Akselintien kautta. Akselintiellä
+            on ajoradasta korotettu jalkakäytävä. Turun Pyöräpajan pihalle
+            pääsee autolla, mutta pihalla ei ole parkkitilaa pyöräpajan
+            käytössä. Autot tulee jättää Akselintien varteen.
+          </p>
+          <p>
+            Turun Pyöräpaja on esteellinen. Tilaan kulkee 80cm leveä ovi, ja
+            toinen leveistä tehdashalliovista on avattavissa. Kummankin kohdalla
+            on kynnys. Tila on aikaisemmin ollut autokorjaamo, ja tämän takia
+            tilasta löytyy öljykaivo, joka on peitetty vanerikannella.
+            Öljykaivon ja tämän kannen takia tilan lattia ei ole tasainen.
+            Tilasta löytyy monia eri korkuisia tasoeroja. Tasoeroja on merkitty
+            värikkäällä teipillä.
+          </p>
+          <p>
+            WC löytyy toimistotilan takaosasta, jonne kulku on myös esteellinen.
+            Lattiassa on tasoeroja, ja vessaan ei mahdu pyörätuolilla.
+          </p>
+          <p>
+            Opaskoirat ja lemmikkieläimet ovat tervetulleita pajalle, mutta
+            niiden suositellaan oleilevan pihalla tai sohvien luona. Otathan
+            huomioon pyöränkorjauksesta tulevat kovat äänet, jotka voivat
+            stressata eläimiä, sekä lattialla olevat metalliroskat, jotka voivat
+            vahingoittaa tassuja. Ethän tuo eläimiä musiikkitapahtumiin, joissa
+            on kova meteli.
+          </p>
+        </div>
+      </section>
+
+      <section id="support" class="section">
+        <h2 class="section-title" data-i18n="support.title">Kuinka tukea</h2>
+        <div class="brutal-card">
+          <p data-i18n="support.description">
+            Pyöräpaja toimii lahjoitus- ja vapaaehtoistoimin. Näin voit tukea:
+          </p>
+          <ul class="brutal-list" data-i18n-list="support.support_list">
+            <li></li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="join" class="section">
+        <h2 class="section-title" data-i18n="join.title">Liity yhdistykseen</h2>
+        <div class="brutal-card accent-card">
+          <p data-i18n="join.description">
+            Liity Turun Pyöräpajan Vapaa Ratas Ry jäseneksi! Jäsenmaksu on 1-30€
+            vuodessa, tukijäsenyys on 50€ vuodessa. Liittymällä jäseneksi autat
+            meitä kattamaan pyöräpajan vuokrakuluja.
+          </p>
+          <a
+            class="brutal-btn"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfg6IdpMdDR_l4FjxCrsIzlXiaz4wbHpCbmNcGLcVOQNLjwfg/viewform?usp=header"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><span data-i18n="join.cta">Liittymislomake</span> &rarr;</a
+          >
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <p>Turun Pyöräpaja - Vapaa Ratas ry</p>
+    </footer>
+    <script src="js/index.js" defer></script>
   </body>
 </html>
