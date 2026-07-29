@@ -199,7 +199,7 @@ section {
 
 .calendar-embed {
   width: 100%;
-  max-width: 800px;
+  max-width: 900px;
   height: 450px;
   border: var(--border-width) solid var(--color-text);
   display: block;
